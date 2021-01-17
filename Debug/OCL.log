@@ -1,0 +1,23 @@
+﻿  OCL.cpp
+e:\code\c++\ocl\ocl\field.h(75): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\code\c++\ocl\ocl\field.h(80): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\code\c++\ocl\ocl\field.h(85): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\code\c++\ocl\ocl\field.h(147): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\code\c++\ocl\ocl\field.h(148): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\code\c++\ocl\ocl\parellell.h(167): warning C4244: “初始化”: 从“std::streamoff”转换到“::size_t”，可能丢失数据
+e:\code\c++\ocl\ocl\parellell.h(253): warning C4838: 从“const int”转换到“::size_t”需要收缩转换
+e:\code\c++\ocl\ocl\parellell.h(457): warning C4244: “初始化”: 从“std::streamoff”转换到“::size_t”，可能丢失数据
+e:\code\c++\ocl\ocl\parellell.h(543): warning C4838: 从“const int”转换到“::size_t”需要收缩转换
+e:\code\c++\ocl\ocl\space.h(70): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\code\c++\ocl\ocl\space.h(75): warning C4305: “初始化”: 从“double”到“float”截断
+e:\code\c++\ocl\ocl\space.h(86): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\code\c++\ocl\ocl\space.h(89): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\code\c++\ocl\ocl\space.h(91): warning C4305: “初始化”: 从“double”到“float”截断
+e:\code\c++\ocl\ocl\iteration.h(56): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+e:\code\c++\ocl\ocl\iteration.h(88): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+e:\code\c++\ocl\ocl\iteration.h(160): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+e:\code\c++\ocl\ocl\iteration.h(182): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+e:\code\c++\ocl\ocl\iteration.h(251): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+e:\code\c++\ocl\ocl\ocl.cpp(10): warning C4005: “PI”: 宏重定义
+  e:\code\c++\ocl\ocl\field.h(10): note: 参见“PI”的前一个定义
+  OCL.vcxproj -> E:\Code\C++\OCL\Debug\OCL.exe
